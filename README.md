@@ -1,4 +1,4 @@
-For more Details refer to the [Project Report.](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction](https://drive.google.com/file/d/1Qwrr-EDlx-IGeudGE8XTHuLczqvsnfpP/view?usp=sharing)) 
+For more Details refer to the [Project Report.](https://drive.google.com/file/d/1Qwrr-EDlx-IGeudGE8XTHuLczqvsnfpP/view?usp=sharing) 
 
 This is Video Frame Prediction and Semantic Segmentation project:
 
