@@ -1,3 +1,4 @@
+This project is a part of **NYU masters course - Deep Learning by Prof. Yann Lecun and Prof. Alfredo Canziani**
 For more Details refer to the [Project Report.](https://drive.google.com/file/d/1Qwrr-EDlx-IGeudGE8XTHuLczqvsnfpP/view?usp=sharing) 
 
 This is Video Frame Prediction and Semantic Segmentation project:
